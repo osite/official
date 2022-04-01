@@ -80,18 +80,7 @@ h1{
     top: 50%;
     transform: translateY(-50%);
 }
-.top{
-    width: 50px;
-    text-align: center;
-    position:absolute;
-    top: 10%;
-    transform: translateY(-10%);
-}
-.top img, .useful img{
-    width: 25px;
-    margin: 5px auto;
-    cursor: pointer;
-}
+
 .useful{
     width: 50px;
     text-align: center;
