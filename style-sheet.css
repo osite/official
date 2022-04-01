@@ -87,6 +87,11 @@ h1{
     top: 10%;
     transform: translateY(-10%);
 }
+.top img, .useful img{
+    width: 25px;
+    margin: 5px auto;
+    cursor: pointer;
+}
 .useful{
     width: 50px;
     text-align: center;
