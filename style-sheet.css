@@ -171,7 +171,7 @@ h1{
     font-size: 30px;
 }
 .side{
-    
+    position: absolute;
     left: 5%;
     top: 30%;
     font-size: 72px;
@@ -184,7 +184,7 @@ h1{
     left: 5%;
     font: italic;
     font-style: italic;
-    
+    position: absolute;
 }
 .slogan{
     position: absolute;
@@ -197,7 +197,7 @@ h1{
 }
 .email{
     color: #fbfcfd;
-    
+    position: absolute;
     top: 55%;
     left: 5%;
     transform: translateY(-55%);
